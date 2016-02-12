@@ -1,0 +1,28 @@
+CAPITUM CONSPECTUS.
+
+. pag.
+Caput prunum ............ 1
+Caput secundum ........... 15
+Caput tertium ............. 25
+Caput quartum ............ 30
+Caput quintum ............ 34
+Caput sextum ............. 48
+Caput septimum ........... 61
+Caput octavum ............ 76
+Caput nonum ............. 79
+Caput decimum ............ 94
+Caput undecimum ........... 102
+
+Caput duodecimum .......... 1}an
+Caput tertium decimum ....... 118
+Caput quartum decimum ...... 125
+Caput quintum decimum ....... 131
+Caput sextum decimum ....... 142
+Caput septimum decimum ...... 157
+Caput octavum decimum ....... 168
+Caput nonum-decimum ....... 179
+Caput vicesimum ........... 189
+Caput vicesimum primum ...... 199
+
+Caput vicesimum alterum ...... 211
+
